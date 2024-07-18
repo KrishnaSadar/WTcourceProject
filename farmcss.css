@@ -85,6 +85,8 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #4CAF50;
+    text-decoration: underline;
+    
 }
 
 .hero {
